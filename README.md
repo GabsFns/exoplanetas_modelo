@@ -58,8 +58,9 @@ O projeto utiliza dados reais coletados por telescópios espaciais e propõe uma
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
-cd seurepositorio
+git clone https://github.com/GabsFns/exoplanetas_modelo.git
+
+cd exoplanetas_modelo
 ```
 
 2. Instale as dependências:
