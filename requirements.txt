@@ -1,0 +1,5 @@
+lightkurve
+pandas
+scikit-learn
+matplotlib
+joblib
